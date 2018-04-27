@@ -31,7 +31,7 @@
     "prepublishOnly": "nsp check",
     "pretest": "eslint .",
     "precommit": "lint-staged",
-    "test": "jest",
+    "test": "npm run test:coverage && jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
