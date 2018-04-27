@@ -1,4 +1,4 @@
-# hangouts-card-helper [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][https://travis-ci.org/bareinhard/hangouts-card-helper.svg?branch=master] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status](https://coveralls.io/repos/github/BaReinhard/hangouts-card-helper/badge.svg?branch=master)](https://coveralls.io/github/BaReinhard/hangouts-card-helper?branch=master)
+# hangouts-card-helper [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/BaReinhard/hangouts-card-helper.png?branch=master)](https://travis-ci.org/BaReinhard/hangouts-card-helper) [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status](https://coveralls.io/repos/github/BaReinhard/hangouts-card-helper/badge.svg?branch=master)](https://coveralls.io/github/BaReinhard/hangouts-card-helper?branch=master)
 
 >
 
