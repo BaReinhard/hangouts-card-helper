@@ -1,5 +1,6 @@
 # hangouts-card-helper [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> 
+
+>
 
 ## Installation
 
@@ -10,14 +11,14 @@ $ npm install --save hangouts-card-helper
 ## Usage
 
 ```js
-const hangoutsCardHelper = require('hangouts-card-helper');
+const { createIconKeyValue } = require('hangouts-card-helper');
 
-hangoutsCardHelper('Rainbow');
+createIconKeyValue('airplane');
 ```
+
 ## License
 
 Apache-2.0 © [Brett Reinhard]()
-
 
 [npm-image]: https://badge.fury.io/js/hangouts-card-helper.svg
 [npm-url]: https://npmjs.org/package/hangouts-card-helper
