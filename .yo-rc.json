@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Brett Reinhard",
+      "authorEmail": "brett@reinhards.us",
+      "authorUrl": ""
+    }
+  }
+}

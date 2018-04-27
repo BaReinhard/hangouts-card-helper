@@ -1,18 +1,29 @@
-## hangouts-card-helper
+# hangouts-card-helper [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+> 
 
-A simple library to help create hangouts chat cards.
+## Installation
 
-### Todo:
+```sh
+$ npm install --save hangouts-card-helper
+```
 
-1. Create header/image card
-2. Create buttons factory and allow for params
-3. Think of more todos
+## Usage
 
-### Current Utilities:
+```js
+const hangoutsCardHelper = require('hangouts-card-helper');
 
-1. singleImageCard - creates a card with a single image
-2. createImageWidget - creates an image widget (widget object)
-3. createWidgets - creats an array of widgets, must be passed widget objects
-4. createSections
-5. createCards
-6. createKeyValueWidget - creates a key value pair widget (widget object)
+hangoutsCardHelper('Rainbow');
+```
+## License
+
+Apache-2.0 © [Brett Reinhard]()
+
+
+[npm-image]: https://badge.fury.io/js/hangouts-card-helper.svg
+[npm-url]: https://npmjs.org/package/hangouts-card-helper
+[travis-image]: https://travis-ci.org/BaReinhard/hangouts-card-helper.svg?branch=master
+[travis-url]: https://travis-ci.org/BaReinhard/hangouts-card-helper
+[daviddm-image]: https://david-dm.org/BaReinhard/hangouts-card-helper.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/BaReinhard/hangouts-card-helper
+[coveralls-image]: https://coveralls.io/repos/BaReinhard/hangouts-card-helper/badge.svg
+[coveralls-url]: https://coveralls.io/r/BaReinhard/hangouts-card-helper
