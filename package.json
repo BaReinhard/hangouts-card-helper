@@ -1,12 +1,12 @@
 {
   "name": "hangouts-card-helper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "homepage": "",
   "author": {
     "name": "Brett Reinhard",
     "email": "brett@reinhards.us",
-    "url": ""
+    "url": "brettreinhard.com"
   },
   "files": ["lib"],
   "main": "lib/index.js",
