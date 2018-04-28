@@ -20,6 +20,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "husky": "^0.14.3",
     "jest": "^22.0.6",
+    "jsdoc": "^3.5.5",
     "lint-staged": "^6.1.1",
     "nsp": "^2.8.0",
     "prettier": "^1.11.1"
@@ -63,9 +64,5 @@
     "testEnvironment": "node"
   },
   "license": "Apache-2.0",
-  "dependencies": {
-    "arrify": "^1.0.1",
-    "jsdoc": "^3.5.5",
-    "lodash": "^4.17.10"
-  }
+  "dependencies": {}
 }
