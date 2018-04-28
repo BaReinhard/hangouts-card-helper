@@ -1,6 +1,6 @@
 {
   "name": "hangouts-card-helper",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "",
   "homepage": "",
   "author": {
@@ -10,7 +10,14 @@
   },
   "files": ["lib"],
   "main": "lib/index.js",
-  "keywords": [""],
+  "keywords": [
+    "hangouts",
+    "hangouts chat",
+    "google api",
+    "google",
+    "google chat",
+    "hangouts chat api"
+  ],
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
     "coveralls": "^3.0.0",
