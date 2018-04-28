@@ -38,6 +38,10 @@ let message = createCards(card);
 res.send(message);
 ```
 
+### Output of Example:
+
+![Example Output](https://github.com/BaReinhard/hangouts-card-helper/blob/master/images/readme_example.png?raw=true)
+
 ## License
 
 Apache-2.0 © [Brett Reinhard]()
