@@ -11,3 +11,7 @@
 ### singleImage.js output:
 
 ![singleImage card output](https://github.com/BaReinhard/hangouts-card-helper/blob/master/images/singleImage.png?raw=true)
+
+### briefReport.js output:
+
+![briefReport card output](https://github.com/BaReinhard/hangouts-card-helper/blob/master/images/briefReport.png?raw=true)
