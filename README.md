@@ -54,3 +54,8 @@ Apache-2.0 © [Brett Reinhard]()
 [daviddm-url]: https://david-dm.org/BaReinhard/hangouts-card-helper
 [coveralls-image]: https://coveralls.io/repos/BaReinhard/hangouts-card-helper/badge.svg
 [coveralls-url]: https://coveralls.io/r/BaReinhard/hangouts-card-helper
+
+
+
+## Notice:
+Testing was performed on a person business account hephaestus.solutions domain.
